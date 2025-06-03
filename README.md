@@ -13,6 +13,6 @@ Here's a bit more about me:
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript
-- **Frameworks:** Nodejs, Nginx
+- **Frameworks:** Node.js, Nginx
 - **Tools:** Git, Docker, VS Code
 - **Databases:** PostgreSQL, MongoDB
