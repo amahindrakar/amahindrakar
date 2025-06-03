@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer who loves working on projects that help me better understand tools and their powers. 
 
