@@ -16,3 +16,4 @@ Here's a bit more about me:
 - **Frameworks:** Node.js, Nginx
 - **Tools:** Git, Docker, VS Code
 - **Databases:** PostgreSQL, MongoDB
+- **Infrastructure Management:** Terraform, Ansible, 
